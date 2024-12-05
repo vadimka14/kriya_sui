@@ -13,8 +13,8 @@ TOP_PRICE = 5.2
 BOTTOM_PRICE = 3.3
 sleep_for_parsing = 30
 
-telegram_bot_id = '7073488324:AAEVVZcMNDSFvSV4ZZe6YBRtCBzCpPEyYl8'
-chat_id = '538772539'
+telegram_bot_id = ''
+chat_id = ''
 
 
 # SLOW_MO = None
